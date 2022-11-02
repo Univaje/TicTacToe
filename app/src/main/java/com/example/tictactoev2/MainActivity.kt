@@ -1,6 +1,7 @@
 package com.example.tictactoe
-// KAKKAAAAAAA
+// KAKKAAAAAAA joooooo
 // NIIN ON!!!!
+//conflicti!
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
